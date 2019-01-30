@@ -1,0 +1,18 @@
+12/30/2012   7:03  PM         Sales  Receipt  # 108772
+Store:  REN
+                DB   SHOES     - RENO
+                 4827  KIETZKE    LANE
+                   RENO,   NV  89509
+                 Phone:  (775)996-1900
+ Cashier  lcw
+ Item #                    Qty     Price   Ext Price
+ 10166                       1 $20.00    $20.00      T
+  LTO  KP  PURE   2KS
+ 10166                       1 $20.00    $20.00     T
+  LTO  KP  PURE   2KS
+ 11899                       1   $19 99      $19.99 T
+  DPN   W  DB176
+                                  Subtotal:    $59.99
+                   reno      7.725  % Tax:     + $4.63
+                        RECEIPT   TOTAL:   $%64.62
+       Debit Card: $64 62

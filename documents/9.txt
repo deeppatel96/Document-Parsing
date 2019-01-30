@@ -1,0 +1,17 @@
+WALMART               Receipt  # 802934a
+  ALWAYS   LOW   PRICES.  ALWAYS    WAL-MART
+              WE SELL   FOR  LESS
+         MANAGER   GORDON   RASMUSSEN
+              608     781   8282
+ST # 1679   OP#  00001522   TE # 06 TR # 05722
+REFRENCE         004908602059           6.95  J
+PHYSICS   CN     004908605337           7.95 J
+                       SUBTOTAL        14.90
+            TAXI      5300   %          0.82
+                           TOTAL      15.72
+                    CASH    TEND      16.00
+                    CHANGE   DUE       0.28
+      #    ITEMS         SOLD        2
+      TCH  3114  0346  1792  1366 8178
+    GET PICIURES  ONL INEFORFORONLYONLY$2.74s2.74
+           06/30/01        21 16:58"

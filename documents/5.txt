@@ -1,0 +1,28 @@
+      Walmart      Receipt  # 00428024
+    Save  money.  Live better.
+           937    644  2800
+         MANAGER  JAMES DAVIS
+      555 COLEMANS  CROSSING BLVD
+         MARYSVILLE  OH 43040
+ST# 1595 OP # 00005786 TE# 24 TR # 03206
+AF EC W  .80Z 005310000579        0.97 X
+AF EC W  802 005310000579         0.97 X
+STP GAS  TRMT 007115378573        1.97 X
+ CTR GRN VOTI 007112196105        0.97 X
+ CTR GRN VOTI 007112196105        0.97 X
+                   SUBTOTAL       5.85
+ COUPON 53100 055310012276        1.00-0
+ COUPON 71121 057112110076        1.00-0
+ COUPON 71153 057115300000        1.00-0
+ COUPON 53100 055310012276        1.00-0
+ COUPON 71121 057112110076        1.00-0
+                    SUBTOTAL      0.85
+          TAXI     6.750 %         0.39
+                       TOTAL       1.24
+                  CASH  TEND       2.00
+                  CHANGE DUE       0.76
+     #    ITEMS       SOLD       5
+     TC #       894 6241 4074  0631
+         Like"" Walmart  on Facebook
+         www.facebook.com/Walmart
+          07/04/12      13:13:15

@@ -1,0 +1,21 @@
+Bank of America - Statement
+Phone: 860-235-2402
+Total Balance                                               $1,339.05
+Activitv detail
+Deposits
+                                                             $ Amount
+                                Deposit                         15.00
+ 4/15                           Automatic                    1,266.36
+Total Deposits                                               1.281.36
+Withdrawal
+Checks
+Number                                                       $ Amount
+                                                             1,200.50
+Total Checks                                                 1.200.50
+                                                             $ Amount
+4/28                            Automatic                      178.00
+                                payment  - Car
+                                Company
+                                Cash                           100.00
+4/25                            Debit                           37.27
+                                Grocery Store
